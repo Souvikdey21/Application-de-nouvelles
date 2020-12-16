@@ -2,7 +2,6 @@
         background-image: linear-gradient(rgb(0, 0, 0, 0.2), rgb(0, 0, 0, 0.2)), url('lal.jpg');
         background-repeat: no-repeat;
         background-size: cover;
-        /* fallback for old browsers */
         padding: 0px;
         margin: 0px;
         font-family: "cursive";
